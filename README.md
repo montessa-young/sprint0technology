@@ -1,6 +1,3 @@
-# sprint0technology
-Technology curriculum including technology skills, accessibility policies, privacy policies and links to tutorials. 
-
 # Technology Orientation
 Since Lambda School is an online school for training software developers it is expected that you will have advanced skills in using and troubleshooting applications. 
 
@@ -32,7 +29,9 @@ Recommended operating systems (in descending order): macOS, Windows 10, Ubuntu. 
 Other versions of Windows work but students should anticipate occasional environment issues. Chromebooks are *not* supported, as coursework involves installing and running software locally.
 
 _Does your current system meet these standards?_
+
 [Determine the type and speed of your processor](https://www.computerhope.com/issues/ch000046.htm)
+
 [Determine the size of your hard drive](https://www.computerhope.com/issues/ch000497.htm)
 
 ### Webcam
@@ -67,17 +66,26 @@ It is assumed that you are able to do the following technology tasks as a Lambda
 
 ## Accessibility and Privacy Policies
 It is Lambda School's intention to make you aware of accessibility tools and understand the privacy policies of the apps that we frequently use since they are from third party vendors. It is recommended that you review their accessibility and privacy policies. 
+
 [Slack Privacy Policy](https://slack.com/privacy-policy)
+
 [Slack Accessibility Policy](https://slack.com/accessibility-plan)
+
 [Zoom Privacy Policy](https://zoom.us/privacy)
+
 [Zoom Accessibility Policy](https://zoom.us/accessibility)
+
 [Notion Privacy Policy](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac)
+
 Notion Accessibility Policy- not found
+
 [GitHub Privacy Policy](https://help.github.com/en/articles/github-privacy-statement)
+
 [GitHub Accessibility Policy](https://government.github.com/accessibility/)
 
 ## Slack 
 [What is Slack?](https://www.youtube.com/watch?v=9RJZMSsH7-g)
+
 Slack is a collaboration hub where you will communicate with everyone at Lambda School. Slack is used because of the following benefits and features not provided by an email system;
 * Organized conversations
 * Searchable history
