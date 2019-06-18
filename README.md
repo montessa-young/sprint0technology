@@ -30,8 +30,9 @@ Recommended operating systems (in descending order): macOS, Windows 10, Ubuntu. 
 Other versions of Windows work but students should anticipate occasional environment issues. Chromebooks are *not* supported, as coursework involves installing and running software locally.
 
 _Does your current system meet these standards?_
-[Determine the type and speed of your processor](https://www.computerhope.com/issues/ch000046.htm)    
-[Determine the size of your hard drive](https://www.computerhope.com/issues/ch000497.htm) . 
+[Determine the type and speed of your processor](https://www.computerhope.com/issues/ch000046.htm)
+
+[Determine the size of your hard drive](https://www.computerhope.com/issues/ch000497.htm)
 
 ### Webcam
 An external webcam or built-in camera on your computer is recommended to be able to share video with your classmates. It is easier to communicate when you can see nonverbal communication like facial expressions. High definition and feature rich webcams are unnecessary and the basic models will cost approximately $25. 
@@ -65,21 +66,30 @@ It is assumed that you are able to do the following technology tasks as a Lambda
 
 ## Accessibility and Privacy Policies
 It is Lambda School's intention to make you aware of accessibility tools and understand the privacy policies of the apps that we frequently use since they are from third party vendors. It is recommended that you review their accessibility and privacy policies. 
-[Slack Privacy Policy](https://slack.com/privacy-policy) . 
-[Slack Accessibility Policy](https://slack.com/accessibility-plan) . 
-[Zoom Privacy Policy](https://zoom.us/privacy) . 
-[Zoom Accessibility Policy](https://zoom.us/accessibility) . 
-[Notion Privacy Policy](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac) . 
-Notion Accessibility Policy- not found . 
-[GitHub Privacy Policy](https://help.github.com/en/articles/github-privacy-statement) . 
-[GitHub Accessibility Policy](https://government.github.com/accessibility/) . 
+[Slack Privacy Policy](https://slack.com/privacy-policy)
+
+[Slack Accessibility Policy](https://slack.com/accessibility-plan)
+
+[Zoom Privacy Policy](https://zoom.us/privacy)
+
+[Zoom Accessibility Policy](https://zoom.us/accessibility)
+
+[Notion Privacy Policy](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac)
+
+Notion Accessibility Policy- not found
+
+[GitHub Privacy Policy](https://help.github.com/en/articles/github-privacy-statement)
+
+[GitHub Accessibility Policy](https://government.github.com/accessibility/)
+
 
 ## Slack 
-[What is Slack?](https://www.youtube.com/watch?v=9RJZMSsH7-g) . 
+[What is Slack?](https://www.youtube.com/watch?v=9RJZMSsH7-g)
+
 Slack is a collaboration hub where you will communicate with everyone at Lambda School. Slack is used because of the following benefits and features not provided by an email system;
 * Organized conversations
 * Searchable history
 * Apps and integrations
-Slack can be used as a SaaS, desktop app or mobile app. 
+Slack can be used in the browser, as a desktop app and as a mobile app. 
 It is vitally important that you are on Slack every school day at Lambda. 
 
