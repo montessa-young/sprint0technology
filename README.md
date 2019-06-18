@@ -1,7 +1,5 @@
 # sprint0technology
 Technology curriculum including technology skills, accessibility policies, privacy policies and links to tutorials. 
-# sprint0technology
-Technology curriculum for orientation including technology skills, accessibility policies, privacy policies and links to app tutorials. 
 
 # Technology Orientation
 Since Lambda School is an online school for training software developers it is expected that you will have advanced skills in using and troubleshooting applications. 
