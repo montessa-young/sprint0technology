@@ -30,6 +30,7 @@ Recommended operating systems (in descending order): macOS, Windows 10, Ubuntu. 
 Other versions of Windows work but students should anticipate occasional environment issues. Chromebooks are *not* supported, as coursework involves installing and running software locally.
 
 _Does your current system meet these standards?_
+
 [Determine the type and speed of your processor](https://www.computerhope.com/issues/ch000046.htm)
 
 [Determine the size of your hard drive](https://www.computerhope.com/issues/ch000497.htm)
@@ -66,6 +67,7 @@ It is assumed that you are able to do the following technology tasks as a Lambda
 
 ## Accessibility and Privacy Policies
 It is Lambda School's intention to make you aware of accessibility tools and understand the privacy policies of the apps that we frequently use since they are from third party vendors. It is recommended that you review their accessibility and privacy policies. 
+
 [Slack Privacy Policy](https://slack.com/privacy-policy)
 
 [Slack Accessibility Policy](https://slack.com/accessibility-plan)
