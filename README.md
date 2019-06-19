@@ -161,9 +161,9 @@ There are other resources included in Training Kit including Career Readiness an
 The Lambda School uses a Student Progress Report Dashboard https://dashboards.lambdaschool.com/students/
 The same credentials you used to access your training kit can be used to access your dashboard. 
 
-The dashboard is where you as a student can find feedback from the project manager (PM) who reviewed your work. In the top header you'll see your name, section and PM. You will see the sprint challenges that you have completed, the titles, how many attempts it took to pass the sprint and whether it was passed or not. If you need to take another try at a sprint challenge the green box will be red and have the word "resubmit" shown in the box. If you miss submitting a sprint the red box will read "missing"
+The dashboard is where you as a student can find feedback from the project manager (PM) who reviewed your work. In the top header you'll see your name, section and PM. You will see the sprint challenges that you have completed, the titles, how many attempts it took to pass the sprint and whether it was passed or not. If you need to take another try at a sprint challenge the green box will be red and have the word "resubmit" shown in the box. If you miss submitting a sprint the red box will read "missing".
 
-This dashboard shows you the feedback from your PM on your sprint challenge. It also gives Lambda staff a clear picture of units you may need extra support.
+This dashboard shows you the feedback from your PM on your sprint challenge. It also gives Lambda staff a clear picture of units where you may need extra support.
 
 ## Google Calendar
 Google Calendar is a free time-management and scheduling calendar service developed by Google. It is utilized at Lambda School as the main calendar. You will receive an invite to the Google Calendar for your track. Lambda School operates on Pacific time and takes U.S. holidays. Check the Google Calendar on a regular basis to be sure you are in attendance every day that there is class. 
