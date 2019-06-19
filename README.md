@@ -98,23 +98,23 @@ Slack can be used in a browser, as a desktop app and as a mobile app.
 It is vitally important that you are on Slack every school day at Lambda. 
 
 ### Slack at Lambda School
-You will be placed in a Slack channel with the other students in your program. The instructor will interact with you in this slack channel. They will post lecture links to their Zoom rooms, answer questions and post additional resources. 
+* You will be placed in a Slack channel with the other students in your program. The instructor will interact with you in this slack channel. They will post lecture links to their Zoom rooms, answer questions and post additional resources. 
 
-Once you’ve filled out your confirmation form, you will be added to the student Slack workspace and assigned to a few main channels depending on your class and group.
+* Once you’ve filled out your confirmation form, you will be added to the student Slack workspace and assigned to a few main channels depending on your class and group.
 
-_Example: You are a new student joining the WEB18 class (Full Stack Web, Class 18), your main Slack channels will be #WEB18 and #WEB18_help. You will be assigned to a smaller group with your Project Manager. For example, if your Project Manager is Alicia Jackson, that Slack channel might be named #WEB18_aj._
+* _Example: You are a new student joining the WEB18 class (Full Stack Web, Class 18), your main Slack channels will be #WEB18 and #WEB18_help. You will be assigned to a smaller group with your Project Manager. For example, if your Project Manager is Alicia Jackson, that Slack channel might be named #WEB18_aj._
 
-Lambda School instructors have a white Lambda School logo over a red background and project managers have black Lambda School logo over a white background next to their usernames. Other Lambda School staff have white Lambda School logo over a black background next to their usernames.
+* Lambda School instructors have a white Lambda School logo over a red background and project managers have black Lambda School logo over a white background next to their usernames. Other Lambda School staff have white Lambda School logo over a black background next to their usernames.
 
 
 ### Tips for Using Slack 
-When setting your Slack avatar, use a professional profile photo, just as you would for a job. Also, use your first and last name on your profile. 
+* When setting your Slack avatar, use a professional profile photo, just as you would for a job. Also, use your first and last name on your profile. 
 
-The #WEB# help channel is the first place you should post if you are confused or stuck. A PM or Instructor will jump in and help you work through the challenge at hand.
+* The #WEB# help channel is the first place you should post if you are confused or stuck. A PM or Instructor will jump in and help you work through the challenge at hand.
 
-When it is time for a lecture, a Zoom link will be posted in your class channel with the @channel tag, which should send you both desktop and push notifications. Make sure to follow the schedule and be on time for those lectures, as your class may not wait for you.
+* When it is time for a lecture, a Zoom link will be posted in your class channel with the @channel tag, which should send you both desktop and push notifications. Make sure to follow the schedule and be on time for those lectures, as your class may not wait for you.
 
-Typing a message in Slack that includes “@here” or “@channel” notifies everyone in that channel. This sends an alert to their desktop, or, in many cases, their personal cellphones. As such, please use “@here” and ”@channel” sparingly in your cohort or local channels, and not in general channels. Thanks for helping us keep Slack usable!
+* Typing a message in Slack that includes “@here” or “@channel” notifies everyone in that channel. This sends an alert to their desktop, or, in many cases, their personal cellphones. As such, please use “@here” and ”@channel” sparingly in your cohort or local channels, and not in general channels. Thanks for helping us keep Slack usable!
 
 ### Suggested Slack Tutorials
 [Edit Your Profile](https://get.slack.help/hc/en-us/articles/204092246)
