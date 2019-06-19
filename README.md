@@ -46,7 +46,7 @@ The video content does have audio that you will need to listen to. Depending on 
 ### Mobile devices
 The main communication tools used at Lambda- Slack, Zoom and Notion have mobile applications. If you have a mobile device it would be useful to download these applications to be sure you can communicate in an emergency. The vast majority of the work can not be completed on a mobile device and a fully functional system is required. 
 
-## Technology Skill Prerequisites
+## Technology Skills Prerequisites
 It is assumed that you are able to do the following technology tasks as a Lambda School student. If there are any you need to work on, look for online tutorials and brush up on your skills.
 
 * Conduct an effective search with a search engine (e.g., Google, Bing, Yahoo) using advanced search commands.
